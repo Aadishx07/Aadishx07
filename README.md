@@ -6,7 +6,7 @@ I'm a developer focused on optimizing workflows, building high-performance proje
 - Proud Arch Linux user btw. Yes, I had to mention it. 🎩
 - Neovim enthusiast — because who doesn’t want to wield their keyboard like a true wizard? ⌨️✨ Check out my [Neovim config](https://github.com/Aadishx07/neovim.git)!
 - I've probably spent more time configuring my editor than writing code (it's all part of the process!).
-- I break things just to fix them better. Consider it "trial by fire." 🔥
+- I break things just to fix them better. Consider it "trial by fire." 
 - Still figuring out why my code works... when it does.
 
 ### What I’m working on:
